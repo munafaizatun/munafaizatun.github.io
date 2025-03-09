@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Logo](assets/logo.png)
+![Logo](assets/logo.jpg)
 
 ## Muna Faizatun Nabilah  
 
