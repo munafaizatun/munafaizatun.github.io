@@ -2,8 +2,6 @@
 layout: default
 ---
 
-![Logo](assets/logo.jpg)
-
 ## Muna Faizatun Nabilah  
 
 [LinkedIn](https://www.linkedin.com/in/muna-faizatun-nabilah/) | [GitHub](https://github.com/nblhmf)
