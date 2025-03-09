@@ -3,6 +3,7 @@
 ## Muna Faizatun Nabilah  
 
 [LinkedIn](https://www.linkedin.com/in/muna-faizatun-nabilah/) | [GitHub](https://github.com/nblhmf)
+
 I am a Bachelor's degree graduate in Statistics from Universitas Islam Indonesia with a strong interest in data analysis, statistical analysis, and data visualization.
 Currently, I am seeking new opportunities in the Data Analyst & Data Science field to apply my skills in supporting data-driven decision-making.
 
