@@ -1,6 +1,19 @@
-title: "Muna Faizatun Nabilah"
-logo: "/assets/logo.jpg"
+title: <p align="center"> Muna Faizatun Nabilah </p>
+
+logo: "/images/picture.png?raw=true"
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/muna-faizatun-nabilah/">LinkedIn</a> |
+  <a href="https://github.com/nblhmf">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  I am a Bachelor’s degree graduate in Statistics from Universitas Islam Indonesia with a strong interest in data analysis, statistical analysis, and data visualization.
+  <br><br>
+  Currently, I am seeking new opportunities in the Data Analyst & Data Science field to apply my skills in supporting data-driven decision-making.
+  <br><br>
+  </p>
+  
 theme: jekyll-theme-minimal
-description: "LinkedIn | GitHub"
-show_downloads: false
-css: /assets/style.css
+google_analytics: UA-145578661-1 # Google Analytics tracking ID
