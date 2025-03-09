@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ![Logo](assets/logo.png)
 
 ## Muna Faizatun Nabilah  
