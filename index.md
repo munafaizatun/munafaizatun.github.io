@@ -12,6 +12,7 @@ Currently, I am seeking new opportunities in the Data Analyst & Data Science fie
 ### Data Science
 **Multiclass Spatial Classification of Sentinel-2 Imagery Using Machine Learning and Deep Learning**  
 [View on GitHub](https://github.com/nblhmf/Land-Use-Classification)
+
 I compared SVM, Naïve Bayes, and BNN for land cover classification using Sentinel-2 imagery, with NIR and SWIR as key spectral bands. SVM achieved the highest accuracy with low variance. The analysis revealed significant non-vegetation concentration near major infrastructure, indicating urban development impact. Potential growth areas within 3-5 km of UNRI were identified, emphasizing the need for sustainable land-use policies (UU No. 26/2007).
 
 
