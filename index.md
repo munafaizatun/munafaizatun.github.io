@@ -11,6 +11,8 @@ I compared SVM, Naïve Bayes, and BNN for land cover classification using Sentin
 <center><img src="images/classification.jpg"/></center>
 
 ---
+## Natural Language Processing
+
 ### Sentiment Analysis of Tweets on "Vaksin"
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1bpqsgL6nWUa2QKzK3jLZi7nWPMTaK6ZW#scrollTo=u80kIjVz5q36)
