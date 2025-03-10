@@ -11,10 +11,10 @@ I compared SVM, Naïve Bayes, and BNN for land cover classification using Sentin
 <center><img src="images/classification.png"/></center>
 
 ---
-### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
+### Sentiment Analysis of Tweets on "Vaksin"
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1bpqsgL6nWUa2QKzK3jLZi7nWPMTaK6ZW#scrollTo=u80kIjVz5q36)
 
-<div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
+<div style="text-align: justify">This project involves analyzing tweets related to the topic of "Vaksin" (vaccines) to determine the overall sentiment of public opinion. Using natural language processing (NLP) techniques, I collected a dataset of tweets and performed text pre-processing. The analysis classifies tweets as positive, negative, or neutral, offering valuable insights into public sentiment. This project aims to monitor public health discussions and trends surrounding vaccination on social media.</div>
 
 <center><img src="images/BERT-classification.png"/></center>
