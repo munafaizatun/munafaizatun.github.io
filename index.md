@@ -17,4 +17,4 @@ I compared SVM, Naïve Bayes, and BNN for land cover classification using Sentin
 
 <div style="text-align: justify">This project involves analyzing tweets related to the topic of "Vaksin" (vaccines) to determine the overall sentiment of public opinion. Using natural language processing (NLP) techniques, I collected a dataset of tweets and performed text pre-processing. The analysis classifies tweets as positive, negative, or neutral, offering valuable insights into public sentiment. This project aims to monitor public health discussions and trends surrounding vaccination on social media.</div>
 
-<center><img src="images/BERT-classification.png"/></center>
+<center><img src="images/pie.png"/></center>
