@@ -20,14 +20,3 @@ I compared SVM, Naïve Bayes, and BNN for land cover classification using Sentin
 <br>
 <center><img src="images/kmeans.png"/></center>
 <br>
-
----
-## Natural Language Processing
-
-### Sentiment Analysis of Tweets on "Vaksin"
-
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1bpqsgL6nWUa2QKzK3jLZi7nWPMTaK6ZW#scrollTo=u80kIjVz5q36)
-
-<div style="text-align: justify">This project involves analyzing tweets related to the topic of "Vaksin" (vaccines) to determine the overall sentiment of public opinion. Using natural language processing (NLP) techniques, I collected a dataset of tweets and performed text pre-processing. The analysis classifies tweets as positive, negative, or neutral, offering valuable insights into public sentiment. This project aims to monitor public health discussions and trends surrounding vaccination on social media.</div>
-
-<center><img src="images/pie.png"/></center>
