@@ -2,7 +2,7 @@
 ---
 ## Data Science
 
-### Multiclass Spatial Classification of Sentinel-2 Imagery Using Machine Learning and Deep Learning
+### Analyzing Multiclass Land Cover and Spatial Point Patterns on Sentinel-2 Imagery Using Machine Learning and Deep Learning
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/nblhmf/Land-Use-Classification)
 
