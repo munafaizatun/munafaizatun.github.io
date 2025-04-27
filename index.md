@@ -5,7 +5,7 @@
 ### Analyzing Multiclass Land Cover and Spatial Point Patterns on Sentinel-2 Imagery Using Machine Learning and Deep Learning
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/nblhmf/Land-Use-Classification)
-[![Open Research journal](https://journal.ummat.ac.id/index.php/jtam/article/view/29683)
+[![Open Research journal](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](https://journal.ummat.ac.id/index.php/jtam/article/view/29683)
 
 I classified land cover around Universitas Riau (UNRI) using Sentinel-2 imagery (10 m resolution), focusing on NIR and SWIR bands. I compared Support Vector Machine (SVM), Naïve Bayes (NB), and Backpropagation Neural Network (BNN) models using a stratified 80-20 split. SVM achieved the highest accuracy, averaging 91.15% in 2022 and 83.90% in 2023 with minimal variance, confirming its reliability. Spatial analysis revealed significant non-vegetation concentration near major infrastructure, highlighting urban development impacts. Potential growth zones within 3–5 km of UNRI were identified, supporting the need for sustainable land-use planning in line with Law No. 26/2007 on Spatial Planning.
 
