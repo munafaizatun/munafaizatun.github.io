@@ -9,7 +9,11 @@ description:
   </p>
   
   <p align="justify">
-  I hold a Bachelor's degree in Statistics from Universitas Islam Indonesia and am currently seeking opportunities in Data Analysis and Data Science to leverage my skills in data-driven decision-making.
+  I’m Muna Faizatun Nabilah, a Statistics graduate from Universitas Islam Indonesia with hands-on experience in data analysis and machine learning. I’m proficient in Python and R, familiar with SQL, and skilled in data visualization using Tableau.
+
+I enjoy working with large datasets—from data cleaning and preprocessing to building analytical models and visualizing insights. My projects include developing and comparing machine learning models (SVM, Naïve Bayes, and BNN) and applying unsupervised learning (K-Means Clustering) to analyze disaster vulnerability data. I also built an interactive dashboard for real-time disaster monitoring to support emergency response teams.
+
+Currently, I’m seeking opportunities in Data Analysis or Data Science where I can contribute to impactful, data-driven solutions and continue growing professionally.
   </p>
   
 theme: jekyll-theme-minimal
