@@ -8,9 +8,9 @@ description:
   <a href="https://github.com/munafaizatun">GitHub</a>
   </p>
   
-  <div style="height: 150px; overflow-y: scroll; text-align: justify; border: 1px solid #ddd; padding: 10px;">
-  Statistics graduate with hands-on experience in data analysis, machine learning, and data visualization. Proficient in Python, RStudio, basic SQL, and Tableau, with a strong interest in working with large datasets. Currently seeking opportunities in Data Analysis or Data Science to contribute to impactful, data-driven solutions.
-  </div>
+  <p align="justify">
+  Statistics graduate with hands-on experience in data analysis, machine learning, and data visualization, passionate about working with large datasets. Currently seeking opportunities in Data Analysis or Data Science to contribute to impactful, data-driven solutions.
+  </p>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-145578661-1 # Google Analytics tracking ID
