@@ -7,7 +7,7 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/munafaizatun/Land-Use-Classification)
 [![Open Research Journal](https://img.shields.io/badge/PDF-Open_Research_Journal-blue?logo=adobe-acrobat-reader&logoColor=white)](https://journal.ummat.ac.id/index.php/jtam/article/view/29683)
 
-<div style="text-align: justify">Conducted data analysis and predictive modeling on geospatial datasets using Sentinel-2 imagery, comparing SVM, NB, and BNN models, achieving 91.15% accuracy in 2022 and 83.90% in 2023 with minimal variance. Generated actionable insights from spatial patterns, identifying high-density building areas and potential growth zones within 3–5 km of UNRI.</div>
+<div style="text-align: justify">Conducted data analysis and predictive modeling on geospatial datasets using Sentinel-2 imagery, comparing SVM, NB, and BNN models, achieving 91.15% accuracy in 2022 and 83.90% in 2023 with minimal variance. Generated actionable insights from spatial patterns, identifying high-density building (non-vegetation) areas and potential growth zones within 3–5 km of UNRI.</div>
 <br>
 <center><img src="images/classification.jpg"/></center>
 <br>
