@@ -12,12 +12,12 @@
 <center><img src="images/classification.jpg"/></center>
 <br>
 ---
-### K-Means Clustering for Disaster Risk Analysis
+### Wind Disaster Risk Analysis in Sleman Regency
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/KMeans-Clustering.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/munafaizatun/KMeans-Clustering-Disaster-Risk-Analysis/blob/main/KMeans-Clustering.ipynb)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/wind-disaster-risk.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/munafaizatun/wind-risk-analysis)
 
-<div style="text-align: justify">I conducted exploratory data analysis (EDA) on strong wind disaster vulnerability data in Sleman Regency and applied K-Means clustering to group areas based on disaster occurrences, fallen trees, and power network disruptions. From my analysis, I identified high-risk areas and visualized them on a risk map, generating actionable insights to support disaster mitigation and planning.</div>
+<div style="text-align: justify">In this project, I performed comprehensive EDA on the Sleman dataset, then applied K-Means and DBSCAN clustering to identify high-risk districts, track annual trends and outliers, and highlight key risk factors such as fallen trees, power disruptions, and incident frequency.</div>
 <br>
-<center><img src="images/kmeans.png"/></center>
+<center><img src="images/map.png"/></center>
 <br>
