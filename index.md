@@ -7,7 +7,7 @@
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/wind-disaster-risk.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]([https://github.com/munafaizatun/wind-risk-analysis](https://github.com/munafaizatun/wind-risk-analysis/blob/main/wind-disaster-risk.ipynb))
 
-<div style="text-align: justify">In this project, I performed comprehensive EDA on the Sleman dataset, then applied K-Means and DBSCAN clustering to identify high-risk districts, track annual trends and outliers, and highlight key risk factors such as fallen trees, power disruptions, and incident frequency.</div>
+<div style="text-align: justify">I performed comprehensive EDA on the Sleman dataset, then applied K-Means and DBSCAN clustering to identify high-risk districts, track annual trends and outliers, and highlight key risk factors such as fallen trees, power disruptions, and incident frequency.</div>
 <br>
 <center>
 <img src="images/map.png"/>
