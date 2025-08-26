@@ -10,7 +10,7 @@
 <div style="text-align: justify">In this project, I performed comprehensive EDA on the Sleman dataset, then applied K-Means and DBSCAN clustering to identify high-risk districts, track annual trends and outliers, and highlight key risk factors such as fallen trees, power disruptions, and incident frequency.</div>
 <br>
 <center>
-<img src="images/map.jpg"/>
+<img src="images/map.png"/>
 </center>
 <br>
 
