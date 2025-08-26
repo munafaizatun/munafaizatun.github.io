@@ -11,6 +11,7 @@
 <br>
 <center><img src="images/classification.jpg"/></center>
 <br>
+
 ---
 
 ### Wind Disaster Risk Analysis in Sleman Regency
