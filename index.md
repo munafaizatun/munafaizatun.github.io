@@ -12,8 +12,6 @@
 <center><img src="images/classification.jpg"/></center>
 <br>
 
----
-
 ### Wind Disaster Risk Analysis in Sleman Regency
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/wind-disaster-risk.html)
