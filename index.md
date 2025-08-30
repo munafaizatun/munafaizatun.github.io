@@ -9,7 +9,7 @@
 
 <div style="text-align: justify">In this project, I explored online retail transactions to uncover customer behavior, top-selling products, customer segments, high-value buyers, and cross-selling opportunities. The goal is to provide actionable insights for marketing strategies that enhance retention and boost revenue.</div>
 <br>
-<center><img src="images/ecommerce.jpg"/></center>
+<center><img src="images/ecommerce.png"/></center>
 <br>
 
 ### Wind Disaster Risk Analysis in Sleman Regency
