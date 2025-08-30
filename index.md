@@ -2,6 +2,16 @@
 ---
 ## Data Science
 
+### E-Commerce Analytics: Insights for Growth & Retention
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ecommerce-analysis.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/munafaizatun/ecommerce-analysis/blob/main/ecommerce-analysis.ipynb)
+
+<div style="text-align: justify">In this project, I explored online retail transactions to uncover customer behavior, top-selling products, customer segments, high-value buyers, and cross-selling opportunities. The goal is to provide actionable insights for marketing strategies that enhance retention and boost revenue.</div>
+<br>
+<center><img src="images/ecommerce.jpg"/></center>
+<br>
+
 ### Wind Disaster Risk Analysis in Sleman Regency
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/wind-disaster-risk.html)
