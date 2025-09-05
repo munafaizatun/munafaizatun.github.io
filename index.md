@@ -1,6 +1,6 @@
 # Portfolio
 ---
-## Data Science
+## Data Analyst
 
 ### E-Commerce Analytics: Insights for Growth & Retention
 
@@ -11,6 +11,8 @@
 <br>
 <center><img src="images/ecommerce.png"/></center>
 <br>
+
+## Data Science
 
 ### Wind Disaster Risk Analysis in Sleman Regency
 
