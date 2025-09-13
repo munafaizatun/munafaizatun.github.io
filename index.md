@@ -7,7 +7,7 @@
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ecommerce-analysis.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/munafaizatun/ecommerce-analysis)
 
-<div style="text-align: justify">In this project, I explored online retail transactions to uncover customer behavior, top-selling products, customer segments, high-value buyers, and cross-selling opportunities. The goal is to provide actionable insights for marketing strategies that enhance retention and boost revenue.</div>
+<div style="text-align: justify">In this project, I analyzed 542,000 online retail transactions from the UK to uncover revenue-driving products, identify at-risk customers, segment buyers, and predict future high-value customers. The goal is to provide actionable insights that guide marketing, improve retention, and accelerate business growth.</div>
 <br>
 <center><img src="images/ecommerce.png"/></center>
 <br>
