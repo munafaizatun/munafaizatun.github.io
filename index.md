@@ -14,7 +14,7 @@
 
 ## Data Science
 
-### Wind Disaster Risk Analysis in Sleman Regency
+### Kaggle Competition: House Prices Prediction
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/house-prices-prediction.ipynb)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/munafaizatun/house-prices-prediction)
