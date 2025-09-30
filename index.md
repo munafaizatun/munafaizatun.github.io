@@ -16,13 +16,13 @@
 
 ### Wind Disaster Risk Analysis in Sleman Regency
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/wind-disaster-risk.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/munafaizatun/wind-risk-analysis)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/house-prices-prediction.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/munafaizatun/house-prices-prediction)
 
-<div style="text-align: justify">I performed comprehensive EDA on the Sleman dataset, then applied K-Means and DBSCAN clustering to identify high-risk districts, track annual trends and outliers, and highlight key risk factors such as fallen trees, power disruptions, and incident frequency.</div>
+<div style="text-align: justify">I explored the Ames Housing dataset, performed comprehensive EDA, handled missing values and outliers, engineered features, and ensembled Lasso, Ridge, LightGBM, and XGBoost models to predict house prices. My best model achieved RMSLE of 0.11983, ranking 139/4,256 participants (~Top 3.3%) on the Kaggle leaderboard.</div>
 <br>
 <center>
-<img src="images/map.png"/>
+<img src="images/house_price_summary.png"/>
 </center>
 <br>
 
