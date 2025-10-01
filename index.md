@@ -26,6 +26,20 @@
 </center>
 <br>
 
+
+### SmartChurn: Targeted Discounts for Customer Retention
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/customer_churn_prediction.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/munafaizatun/customer_churn_prediction)
+
+<div style="text-align: justify">In this project, I predicted customer churn for a utility company, identified key drivers of churn, and simulated targeted 20% discounts to improve retention. The analysis showed that selective discounting increased expected profit for high-risk churners without applying blanket price reductions.</div>
+<br>
+<center>
+<img src="images/customer_churn_analysis.png"/>
+</center>
+<br>
+
+
 ### Analyzing Multiclass Land Cover and Spatial Point Patterns on Sentinel-2 Imagery Using Machine Learning and Deep Learning
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/munafaizatun/Land-Use-Classification)
