@@ -16,7 +16,7 @@
 
 ### Kaggle Competition: House Prices Prediction
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/house-prices-prediction.ipynb)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/house-prices-prediction.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/munafaizatun/house-prices-prediction)
 
 <div style="text-align: justify">I explored the Ames Housing dataset, performed comprehensive EDA, handled missing values and outliers, engineered features, and ensembled Lasso, Ridge, LightGBM, and XGBoost models to predict house prices. My best model achieved RMSLE of 0.11983, ranking 139/4,256 participants (~Top 3.3%) on the Kaggle leaderboard.</div>
