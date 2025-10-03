@@ -18,7 +18,7 @@
 
 ### SmartChurn: Targeted Discounts for Customer Retention
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/smart-churn.ipynb)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/smart-churn.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/munafaizatun/customer_churn_prediction)
 
 <div style="text-align: justify">In this project, I predicted customer churn for a utility company, identified key drivers of churn, and simulated targeted 20% discounts to improve retention. The analysis showed that selective discounting increased expected profit for high-risk churners without applying blanket price reductions.</div>
