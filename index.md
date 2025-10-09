@@ -1,6 +1,22 @@
 # Portfolio
 ---
 
+## Data Analyst
+
+## Customer & Retail Insights
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/chip-store_analysis.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/munafaizatun/retail-analytics)
+
+<div style="text-align: justify">Analyzed customer behavior and retail trial performance to uncover key sales drivers and evaluate promotional impacts. Identified top-performing segments (Young Singles/Couples, Older Families) and measured store-level trial effectiveness to guide data-driven marketing and assortment strategies.</div>
+<br>
+<center>
+<img src="images/comprehensive_store_summary_grid.png"/>
+</center>
+<br>
+
+
+
 ## Data Science
 
 ### Kaggle Competition: House Prices Prediction
