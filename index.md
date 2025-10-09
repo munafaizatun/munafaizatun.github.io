@@ -7,7 +7,7 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/munafaizatun/retail-analytics)
 
-<div style="text-align: justify">Completed the Quantium Data Analyst Job Simulation on Forage, analyzing customer behavior and retail trials to uncover key sales drivers, identify top-performing segments, and deliver actionable, data-driven recommendations for strategic decision-making.</div>
+<div style="text-align: justify">Analyzed customer behavior and retail trials to uncover key sales drivers, identify top-performing segments, and deliver actionable, data-driven recommendations for strategic decision-making.</div>
 <br>
 <center>
 <img src="images/comprehensive_store_summary_grid.png"/>
@@ -35,7 +35,7 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/munafaizatun/customer_churn_prediction)
 
-<div style="text-align: justify">I completed the BCG Data Science Job Simulation on Forage, analyzing customer churn for a utility company. By predicting churn, identifying key drivers, and simulating targeted 20% discounts, I showed that selective interventions can increase profit without blanket price cuts. I also optimized a Random Forest model, demonstrating skills in Python, machine learning, and data-driven business strategy.</div>
+<div style="text-align: justify">I analyzed customer churn for a utility company. By predicting churn, identifying key drivers, and simulating targeted 20% discounts, I demonstrated that selective interventions can increase profit without blanket price cuts. I also optimized a Random Forest model, showcasing skills in Python, machine learning, and data-driven business strategy.</div>
 <br>
 <center>
 <img src="images/customer_churn_analysis.png"/>
