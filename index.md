@@ -3,7 +3,7 @@
 
 ## Data Analyst
 
-## Customer & Retail Insights
+### Customer & Retail Insights
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/chip-store_analysis.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/munafaizatun/retail-analytics)
