@@ -31,14 +31,14 @@
 <br>
 
 
-### SmartChurn: Targeted Discounts for Customer Retention
+### SmartChurn: Predicting & Explaining Customer Churn
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/munafaizatun/customer_churn_prediction)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/munafaizatun/SmartChurn)
 
-<div style="text-align: justify">I analyzed customer churn for a utility company. By predicting churn, identifying key drivers, and simulating targeted 20% discounts, I demonstrated that selective interventions can increase profit without blanket price cuts. I also optimized a Random Forest model, showcasing skills in Python, machine learning, and data-driven business strategy.</div>
+<div style="text-align: justify">I predicted which customers were likely to leave and identified key drivers using XGBoost and SHAP. Scenario simulations showed that blanket discounts increased churn and reduced ROI, while targeted interventions for high-risk segments could improve revenue by ~10%. This demonstrates how data-driven strategies can boost retention without unnecessary price cuts.</div>
 <br>
 <center>
-<img src="images/customer_churn_analysis.png"/>
+<img src="images/SmartChurn_Discount.png"/>
 </center>
 <br>
 
