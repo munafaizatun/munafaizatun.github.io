@@ -38,7 +38,7 @@
 <div style="text-align: justify">I predicted which customers were likely to leave and identified key drivers using XGBoost and SHAP. Scenario simulations showed that blanket discounts increased churn and reduced ROI, while targeted interventions for high-risk segments could improve revenue by ~10%. This demonstrates how data-driven strategies can boost retention without unnecessary price cuts.</div>
 <br>
 <center>
-<img src="images/SmartChurn_Discount.png"/>
+<img src="images/SmartChurn.png"/>
 </center>
 <br>
 
