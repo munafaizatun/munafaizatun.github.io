@@ -7,7 +7,8 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/munafaizatun/retail-analytics)
 
-<div style="text-align: justify">Analyzed customer behavior and retail trials to uncover key sales drivers, identify top-performing segments, and deliver actionable, data-driven recommendations for strategic decision-making.</div>
+<div style="text-align: justify">Analyzed 246k+ retail transactions to uncover high-value customer segments and evaluate a store-level promotional trial, resulting in a measurable increase in sales and customer engagement.
+</div>
 <br>
 <center>
 <img src="images/comprehensive_store_summary_grid.png"/>
