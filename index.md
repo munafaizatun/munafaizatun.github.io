@@ -8,10 +8,11 @@
 
 I analyzed over **246k retail transactions** to uncover high-value customer segments and evaluate a store-level promotional trial. By understanding customer behavior and engagement patterns, the project helped identify strategies that **increased sales and improved customer engagement**.  
 
+<br>
 <center>
 <img src="images/comprehensive_store_summary_grid.png"/>
 </center>
-
+<br>
 
 ## Data Science
 
@@ -22,10 +23,11 @@ I analyzed over **246k retail transactions** to uncover high-value customer segm
 
 Using the Ames Housing dataset, I conducted **full exploratory data analysis, handled missing values and outliers, and engineered features**. I ensembled multiple models—Lasso, Ridge, LightGBM, and XGBoost—to predict house prices. The best model achieved **RMSLE 0.11983**, ranking **Top 3.3% on Kaggle**, demonstrating strong predictive performance and careful feature engineering.  
 
+<br>
 <center>
 <img src="images/house_price_summary.png"/>
 </center>
-
+<br>
 
 ### SmartChurn: Predicting & Explaining Customer Churn
 
@@ -35,10 +37,11 @@ Customer churn is tricky: companies often give discounts to retain customers, bu
 
 Using **XGBoost**, I predicted which customers were at risk, and with **SHAP**, I discovered the main drivers: **price variability, contract timing, and engagement channels**. This allowed me to propose **targeted retention strategies**—focusing on high-risk customers instead of across-the-board discounts—protecting revenue and strengthening customer trust.  
 
+<br>
 <center>
 <img src="images/SmartChurn_Discount_Grid.png"/>
 </center>
-
+<br>
 
 ### Land Cover Classification on Sentinel-2 Imagery
 
@@ -47,9 +50,10 @@ Using **XGBoost**, I predicted which customers were at risk, and with **SHAP**, 
 
 I trained machine learning (SVM, Naive Bayes) and deep learning (Backpropagation Neural Network) models on **Sentinel-2 geospatial data** to classify land cover. The best SVM model achieved **91.15% accuracy in 2022** and **83.90% in 2023** across three classes. I then analyzed spatial point patterns to **identify high-density building areas and potential growth zones**, supporting urban planning insights.  
 
+<br>
 <center>
 <img src="images/classification.jpg"/>
 </center>
-
+<br>
 
 <center>© 2025 Muna Faizatun Nabilah. Powered by Jekyll and the Minimal Theme.</center>
