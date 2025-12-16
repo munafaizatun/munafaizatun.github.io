@@ -1,10 +1,9 @@
 # Portfolio
-
 ---
-
 ## Data Analyst
 
 ### Customer & Retail Insights
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/munafaizatun/retail-analytics)
 
 I analyzed over **246k retail transactions** to uncover high-value customer segments and evaluate a store-level promotional trial. By understanding customer behavior and engagement patterns, the project helped identify strategies that **increased sales and improved customer engagement**.  
@@ -17,6 +16,7 @@ I analyzed over **246k retail transactions** to uncover high-value customer segm
 ## Data Science
 
 ### Kaggle Competition: House Prices Prediction
+
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/house-prices-prediction.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/munafaizatun/house-prices-prediction)
 
@@ -28,6 +28,7 @@ Using the Ames Housing dataset, I conducted **full exploratory data analysis, ha
 
 
 ### SmartChurn: Predicting & Explaining Customer Churn
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/munafaizatun/SmartChurn)
 
 Customer churn is tricky: companies often give discounts to retain customers, but do these really help? In SmartChurn, I analyzed **14k+ energy customers** and found that **blanket discounts (5–20%) often increased churn and reduced ROI**.  
@@ -40,6 +41,7 @@ Using **XGBoost**, I predicted which customers were at risk, and with **SHAP**, 
 
 
 ### Land Cover Classification on Sentinel-2 Imagery
+
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/munafaizatun/Land-Use-Classification)
 [![Open Research Journal](https://img.shields.io/badge/PDF-Open_Research_Journal-blue?logo=adobe-acrobat-reader&logoColor=white)](https://journal.ummat.ac.id/index.php/jtam/article/view/29683)
 
@@ -48,3 +50,6 @@ I trained machine learning (SVM, Naive Bayes) and deep learning (Backpropagation
 <center>
 <img src="images/classification.jpg"/>
 </center>
+
+
+<center>© 2024 Muna Faizatun Nabilah. Powered by Jekyll and the Minimal Theme.</center>
