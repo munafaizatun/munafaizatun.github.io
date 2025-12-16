@@ -3,14 +3,14 @@ title: "<p align='center'>Muna Faizatun Nabilah</p>"
 logo: "/images/logo.png?raw=true"
 
 description: |
-  <div align="center">
+  <p align="center">
     <a href="https://www.linkedin.com/in/munafaizatunabilah/">LinkedIn</a> |
     <a href="https://github.com/munafaizatun">GitHub</a>
-  </div>
+  </p>
 
-  <div align="justify">
-    Data tells a story — and I love reading it. I'm Muna Faizatun Nabilah, a Statistics graduate on a mission to turn complex data into clear, actionable insights. By combining analytical thinking with modeling and visualization, I help uncover hidden patterns, solve real-world problems, and drive decisions that truly make an impact.
-  </div>
+  <p align="justify">
+    I turn data into insight. I'm Muna, a Statistics graduate who transforms complex datasets into clear, actionable strategies. Combining analytical thinking with modeling and visualization, I help uncover hidden patterns, solve real-world problems, and drive decisions that make an impact.
+  </p>
 
 theme: jekyll-theme-minimal
 google_analytics: G-0FMPR2V8ZS  # GA4 Measurement ID
