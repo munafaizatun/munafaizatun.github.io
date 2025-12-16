@@ -52,4 +52,4 @@ I trained machine learning (SVM, Naive Bayes) and deep learning (Backpropagation
 </center>
 
 
-<center>© 2024 Muna Faizatun Nabilah. Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2025 Muna Faizatun Nabilah. Powered by Jekyll and the Minimal Theme.</center>
